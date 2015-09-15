@@ -1,14 +1,14 @@
 {
-  "name": "nanocyte-node-equal",
+  "name": "nanocyte-node-not-equal",
   "version": "1.0.0",
-  "description": "Debug node for Nanocyte",
+  "description": "Not Equal node for Nanocyte",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/octoblu/nanocyte-node-equal.git"
+    "url": "git+https://github.com/octoblu/nanocyte-node-not-equal.git"
   },
   "keywords": [
     "octoblu",
@@ -19,9 +19,9 @@
   "author": "sqrt@octoblu.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/octoblu/nanocyte-node-equal/issues"
+    "url": "https://github.com/octoblu/nanocyte-node-not-equal/issues"
   },
-  "homepage": "https://github.com/octoblu/nanocyte-node-equal#readme",
+  "homepage": "https://github.com/octoblu/nanocyte-node-not-equal#readme",
   "devDependencies": {
     "chai": "^3.2.0",
     "coffee-script": "^1.10.0",
