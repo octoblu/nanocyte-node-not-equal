@@ -1,6 +1,6 @@
 {
   "name": "nanocyte-node-not-equal",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Not Equal node for Nanocyte",
   "main": "index.js",
   "scripts": {
